@@ -3,7 +3,6 @@ public class Main {
         int ticketPrice = 10_300;
         int marginalCost = 20;
         int calculationMiles = ticketPrice / marginalCost;
-        int totalMiles = 515;
         System.out.println(calculationMiles);
     }
 }
